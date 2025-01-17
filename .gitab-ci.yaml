@@ -3,6 +3,10 @@ executar_teste:
      - echo "Executando testes..."
 
 criar_imagens:
+  script:
+    - echo "Criando as imagens..."
 
 push_imagens:
+  script:
+    - echo "Realizando upload das imagens..."
 
