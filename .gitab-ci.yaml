@@ -1,4 +1,6 @@
 executar_teste:
+  script:
+     - echo "Executando testes..."
 
 criar_imagens:
 
